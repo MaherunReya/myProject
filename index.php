@@ -71,12 +71,13 @@
             <p>Connect with survivors, share stories, and support each other in a safe digital space.</p>
         </div>
         </a>
-
+        <a href="digital_campaigns.php" style="text-decoration: none; color: inherit;">
         <div class="program-box">
             <img src="images/online-campaign.png" alt="Campaigns">
             <h3>Digital Campaigns</h3>
             <p>Join movements to raise awareness and create real policy changes in cyber law.</p>
         </div>
+        </a>
         <div class="program-box">
             <img src="images/protection.png" alt="Image Threat help">
             <h3>Threatended with Intimate Image Leak?</h3>
